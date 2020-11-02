@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960283879672",
+    "firebase_url": "https://hoifirebaseproject-53397.firebaseio.com",
+    "project_id": "hoifirebaseproject-53397",
+    "storage_bucket": "hoifirebaseproject-53397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960283879672:android:ed9b667b69121ff1bc730d",
+        "android_client_info": {
+          "package_name": "com.example.hoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960283879672-3i33d8ii9qa3qbsl0gjus7ibnlvup1b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hoi",
+            "certificate_hash": "81ddad2a037121a0a33400a10686d76e21ebb0c5"
+          }
+        },
+        {
+          "client_id": "960283879672-d52eks30369lm97ul6cdb67t6i745sph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXQY3BV7UeNoA_5FOrROxcHvDqbdFsqog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960283879672-d52eks30369lm97ul6cdb67t6i745sph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

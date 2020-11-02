@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/contacts"
+        android:title="contacts"
+        android:icon="@drawable/ic_contacts_black_24dp"/>
+    <item
+        android:id="@+id/logs"
+        android:title="call logs"
+        android:icon="@drawable/ic_contact_phone_black_24dp"/>
+    <item
+        android:id="@+id/feedback"
+        android:title="feedback"
+        android:icon="@drawable/ic_feedback_black_24dp"/>
+    <item
+        android:id="@+id/contact_us"
+        android:title="contact us"
+        android:icon="@drawable/ic_mail_outline_black_24dp"/>
+    <item
+        android:id="@+id/share"
+        android:title="share"
+        android:icon="@drawable/ic_share_black_24dp"/>
+    <item
+        android:id="@+id/logout"
+        android:title="logoout"
+        android:icon="@drawable/logout"/>
+</menu>
